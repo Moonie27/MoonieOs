@@ -13,7 +13,7 @@ while listen == "true" do
 	else if a[1] == "back" then
 		turtle.back(a[2])
 	else if a[1] == "up" then
-		turtle.u(a[2])p
+		turtle.up(a[2])
 	else if a[1] == "down" then
 		turtle.down(a[2])
 	else if a[1] == "turnLeft" then
